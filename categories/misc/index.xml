@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Shadow Pioneer</title>
+    <link>https://shadowpioneer.com/categories/misc/</link>
+    <description>Recent content in Misc on Shadow Pioneer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@shadowpioneer.com (Dustin Plunkett)</managingEditor>
+    <webMaster>admin@shadowpioneer.com (Dustin Plunkett)</webMaster>
+    <lastBuildDate>Wed, 21 Jun 2017 16:25:41 +1200</lastBuildDate>
+    
+	<atom:link href="https://shadowpioneer.com/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://shadowpioneer.com/page/about/</link>
+      <pubDate>Wed, 21 Jun 2017 16:25:41 +1200</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/page/about/</guid>
+      <description>Hello and welcome to my site
+A bit about me I&amp;rsquo;m a tech geek and beer snob who is always playing with the latest gadgets, and looking for new beers to try.
+You can view the repo for this site in it&amp;rsquo;s entirety at github
+I also occasionally home brew in my spare time.
+Here&amp;rsquo;s a nice photo of a beer flight from a local brewery for you. Enjoy your time here!</description>
+    </item>
+    
+  </channel>
+</rss>

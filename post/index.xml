@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shadow Pioneer</title>
+    <link>https://shadowpioneer.com/post/</link>
+    <description>Recent content in Posts on Shadow Pioneer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@shadowpioneer.com (Dustin Plunkett)</managingEditor>
+    <webMaster>admin@shadowpioneer.com (Dustin Plunkett)</webMaster>
+    <lastBuildDate>Wed, 21 Jun 2017 16:41:49 +1200</lastBuildDate>
+    
+	<atom:link href="https://shadowpioneer.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving to Hugo</title>
+      <link>https://shadowpioneer.com/post/moving-to-hugo/</link>
+      <pubDate>Wed, 21 Jun 2017 16:41:49 +1200</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/post/moving-to-hugo/</guid>
+      <description>What is this? A change to a different platform? So I&amp;rsquo;ve decide to give Hugo a try for my main blogging platform. There are numerous reasons for this, mostly cost involved. I&amp;rsquo;ll be able to move all of my sites from an expensive VM, to cheap AWS buckets.
+As for this site, for now at least, it&amp;rsquo;s actually going to be hosted on Gitlab. At least for now.
+There are a lot of changes to be made, and a lot of learning, however it should be a fun experience.</description>
+    </item>
+    
+    <item>
+      <title>Like a sucker punch out of left field</title>
+      <link>https://shadowpioneer.com/like-a-sucker-punch/</link>
+      <pubDate>Thu, 16 Mar 2017 05:03:16 +0000</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/like-a-sucker-punch/</guid>
+      <description>Something has been bothering me a lot lately. I couldn&amp;#8217;t quite put my finger on it. I haven&amp;#8217;t been sleeping well lately (which isn&amp;#8217;t really that unusual), I&amp;#8217;ve been scatterbrained (again, not that unusual) and really just couldn&amp;#8217;t concentrate on anything. It really bugged me that I couldn&amp;#8217;t quite put my finger on it. Anyone that knows me, knows I&amp;#8217;m not one to talk about my feelings at all, good or bad.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shadow Pioneer</title>
+    <link>https://shadowpioneer.com/tags/</link>
+    <description>Recent content in Tags on Shadow Pioneer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@shadowpioneer.com (Dustin Plunkett)</managingEditor>
+    <webMaster>admin@shadowpioneer.com (Dustin Plunkett)</webMaster>
+    <lastBuildDate>Wed, 21 Jun 2017 16:25:41 +1200</lastBuildDate>
+    
+	<atom:link href="https://shadowpioneer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://shadowpioneer.com/tags/</link>
+      <pubDate>Wed, 21 Jun 2017 16:25:41 +1200</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://shadowpioneer.com/tags/blog/</link>
+      <pubDate>Wed, 21 Jun 2017 16:41:49 +1200</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>https://shadowpioneer.com/tags/family/</link>
+      <pubDate>Thu, 16 Mar 2017 05:03:16 +0000</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Life</title>
+      <link>https://shadowpioneer.com/tags/personal-life/</link>
+      <pubDate>Thu, 16 Mar 2017 05:03:16 +0000</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/tags/personal-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sister</title>
+      <link>https://shadowpioneer.com/tags/sister/</link>
+      <pubDate>Thu, 16 Mar 2017 05:03:16 +0000</pubDate>
+      <author>admin@shadowpioneer.com (Dustin Plunkett)</author>
+      <guid>https://shadowpioneer.com/tags/sister/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
